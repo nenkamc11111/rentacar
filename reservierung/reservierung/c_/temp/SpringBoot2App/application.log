@@ -1,0 +1,827 @@
+2021-01-25T23:15:33.653+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 701 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-01-25T23:15:33.666+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-01-25T23:15:33.667+0100 INFO No active profile set, falling back to default profiles: default
+2021-01-25T23:15:39.346+0100 INFO Started ReservierungApplication in 6.227 seconds (JVM running for 7.612)
+2021-01-25T23:15:39.349+0100 INFO Info level log message
+2021-01-25T23:15:39.349+0100 DEBUG Debug level log message
+2021-01-25T23:15:39.350+0100 ERROR Error level log message
+2021-02-02T21:17:22.234+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1620 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-02T21:17:22.251+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-02T21:17:22.252+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-02T21:17:28.509+0100 INFO Started ReservierungApplication in 6.823 seconds (JVM running for 8.329)
+2021-02-02T21:17:28.513+0100 INFO Info level log message
+2021-02-02T21:17:28.513+0100 DEBUG Debug level log message
+2021-02-02T21:17:28.514+0100 ERROR Error level log message
+2021-02-02T21:45:30.265+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1742 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-02T21:45:30.276+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-02T21:45:30.277+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-02T21:45:36.082+0100 INFO Started ReservierungApplication in 6.358 seconds (JVM running for 7.811)
+2021-02-02T21:45:36.086+0100 INFO Info level log message
+2021-02-02T21:45:36.087+0100 DEBUG Debug level log message
+2021-02-02T21:45:36.087+0100 ERROR Error level log message
+2021-02-02T21:54:37.878+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1779 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-02T21:54:37.890+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-02T21:54:37.891+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-02T21:54:43.838+0100 INFO Started ReservierungApplication in 6.505 seconds (JVM running for 7.87)
+2021-02-02T21:54:43.842+0100 INFO Info level log message
+2021-02-02T21:54:43.842+0100 DEBUG Debug level log message
+2021-02-02T21:54:43.843+0100 ERROR Error level log message
+2021-02-05T17:50:43.176+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1124 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-05T17:50:43.189+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-05T17:50:43.190+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-05T17:50:49.236+0100 INFO Started ReservierungApplication in 6.524 seconds (JVM running for 7.867)
+2021-02-05T17:50:49.240+0100 INFO Info level log message
+2021-02-05T17:50:49.240+0100 DEBUG Debug level log message
+2021-02-05T17:50:49.241+0100 ERROR Error level log message
+2021-02-05T18:15:05.436+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1184 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-05T18:15:05.451+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-05T18:15:05.453+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-05T18:15:10.793+0100 INFO Started ReservierungApplication in 5.823 seconds (JVM running for 7.071)
+2021-02-05T18:15:10.798+0100 INFO Info level log message
+2021-02-05T18:15:10.798+0100 DEBUG Debug level log message
+2021-02-05T18:15:10.799+0100 ERROR Error level log message
+2021-02-05T20:32:21.901+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 723 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-05T20:32:21.913+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-05T20:32:21.914+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-05T20:32:27.776+0100 INFO Started ReservierungApplication in 6.387 seconds (JVM running for 7.804)
+2021-02-05T20:32:27.782+0100 INFO Info level log message
+2021-02-05T20:32:27.782+0100 DEBUG Debug level log message
+2021-02-05T20:32:27.782+0100 ERROR Error level log message
+2021-02-05T20:45:54.423+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 798 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-05T20:45:54.434+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-05T20:45:54.435+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-05T20:45:59.819+0100 INFO Started ReservierungApplication in 5.899 seconds (JVM running for 7.21)
+2021-02-05T20:45:59.825+0100 INFO Info level log message
+2021-02-05T20:45:59.825+0100 DEBUG Debug level log message
+2021-02-05T20:45:59.826+0100 ERROR Error level log message
+2021-02-05T20:53:52.727+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 823 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-05T20:53:52.738+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-05T20:53:52.739+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-05T20:53:58.206+0100 INFO Started ReservierungApplication in 5.979 seconds (JVM running for 7.266)
+2021-02-05T20:53:58.212+0100 INFO Info level log message
+2021-02-05T20:53:58.212+0100 DEBUG Debug level log message
+2021-02-05T20:53:58.212+0100 ERROR Error level log message
+2021-02-06T09:19:15.940+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1353 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-06T09:19:15.957+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-06T09:19:15.959+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-06T10:53:37.404+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1539 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-06T10:53:37.418+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-06T10:53:37.419+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-06T10:53:43.427+0100 INFO Started ReservierungApplication in 6.558 seconds (JVM running for 7.953)
+2021-02-06T10:53:43.433+0100 INFO Info level log message
+2021-02-06T10:53:43.433+0100 DEBUG Debug level log message
+2021-02-06T10:53:43.433+0100 ERROR Error level log message
+2021-02-06T11:01:17.207+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1564 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-06T11:01:17.218+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-06T11:01:17.219+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-06T11:01:22.565+0100 INFO Started ReservierungApplication in 5.854 seconds (JVM running for 7.153)
+2021-02-06T11:01:22.571+0100 INFO Info level log message
+2021-02-06T11:01:22.571+0100 DEBUG Debug level log message
+2021-02-06T11:01:22.571+0100 ERROR Error level log message
+2021-02-06T11:04:47.815+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1583 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-06T11:04:47.833+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-06T11:04:47.835+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-06T11:04:54.688+0100 INFO Started ReservierungApplication in 7.554 seconds (JVM running for 9.448)
+2021-02-06T11:04:54.693+0100 INFO Info level log message
+2021-02-06T11:04:54.693+0100 DEBUG Debug level log message
+2021-02-06T11:04:54.694+0100 ERROR Error level log message
+2021-02-07T11:37:02.841+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MacBook-Pro.local with PID 854 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-07T11:37:02.853+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-07T11:37:02.854+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-07T11:37:08.953+0100 INFO Started ReservierungApplication in 6.612 seconds (JVM running for 13.064)
+2021-02-07T11:37:08.958+0100 INFO Info level log message
+2021-02-07T11:37:08.958+0100 DEBUG Debug level log message
+2021-02-07T11:37:08.958+0100 ERROR Error level log message
+2021-02-07T12:50:11.696+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MacBook-Pro.local with PID 1125 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-07T12:50:11.709+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-07T12:50:11.711+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-07T12:50:17.080+0100 INFO Started ReservierungApplication in 5.9 seconds (JVM running for 12.207)
+2021-02-07T12:50:17.085+0100 INFO Info level log message
+2021-02-07T12:50:17.086+0100 DEBUG Debug level log message
+2021-02-07T12:50:17.086+0100 ERROR Error level log message
+2021-02-07T15:53:06.429+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MacBook-Pro.local with PID 1896 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-07T15:53:06.446+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-07T15:53:06.447+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-07T15:53:11.973+0100 INFO Started ReservierungApplication in 6.043 seconds (JVM running for 12.413)
+2021-02-07T15:53:11.978+0100 INFO Info level log message
+2021-02-07T15:53:11.978+0100 DEBUG Debug level log message
+2021-02-07T15:53:11.978+0100 ERROR Error level log message
+2021-02-07T19:57:57.763+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MacBook-Pro.local with PID 3008 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-07T19:57:57.778+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-07T19:57:57.780+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-07T19:58:02.652+0100 INFO Started ReservierungApplication in 5.379 seconds (JVM running for 11.702)
+2021-02-07T19:58:02.656+0100 INFO Info level log message
+2021-02-07T19:58:02.656+0100 DEBUG Debug level log message
+2021-02-07T19:58:02.656+0100 ERROR Error level log message
+2021-02-07T20:00:09.155+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MacBook-Pro.local with PID 3028 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-07T20:00:09.165+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-07T20:00:09.166+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-07T20:00:14.171+0100 INFO Started ReservierungApplication in 5.483 seconds (JVM running for 11.772)
+2021-02-07T20:00:14.174+0100 INFO Info level log message
+2021-02-07T20:00:14.174+0100 DEBUG Debug level log message
+2021-02-07T20:00:14.174+0100 ERROR Error level log message
+2021-02-20T10:12:48.031+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 887 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-20T10:12:48.042+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-20T10:12:48.044+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-20T10:12:53.792+0100 INFO Started ReservierungApplication in 6.281 seconds (JVM running for 7.723)
+2021-02-20T10:12:53.797+0100 INFO Info level log message
+2021-02-20T10:12:53.797+0100 DEBUG Debug level log message
+2021-02-20T10:12:53.797+0100 ERROR Error level log message
+2021-02-20T11:20:02.637+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1198 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-20T11:20:02.649+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-20T11:20:02.650+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-20T11:20:08.230+0100 INFO Started ReservierungApplication in 6.116 seconds (JVM running for 7.582)
+2021-02-20T11:20:08.234+0100 INFO Info level log message
+2021-02-20T11:20:08.235+0100 DEBUG Debug level log message
+2021-02-20T11:20:08.235+0100 ERROR Error level log message
+2021-02-20T18:38:34.708+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 2365 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-20T18:38:34.719+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-20T18:38:34.720+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-20T18:38:40.556+0100 INFO Started ReservierungApplication in 6.362 seconds (JVM running for 7.663)
+2021-02-20T18:38:40.561+0100 INFO Info level log message
+2021-02-20T18:38:40.561+0100 DEBUG Debug level log message
+2021-02-20T18:38:40.561+0100 ERROR Error level log message
+2021-02-21T11:50:15.006+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3324 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:50:15.010+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:50:15.014+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:50:16.146+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3324 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:50:16.148+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:50:16.150+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:51:38.508+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3328 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:51:38.512+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:51:38.516+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:51:39.670+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3328 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:51:39.671+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:51:39.675+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:52:17.904+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3330 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:52:17.908+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:52:17.910+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:53:29.933+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 3334 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:53:29.943+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:53:29.945+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T11:53:35.528+0100 INFO Started ReservierungApplication in 6.095 seconds (JVM running for 7.398)
+2021-02-21T11:53:35.532+0100 INFO Info level log message
+2021-02-21T11:53:35.534+0100 DEBUG Debug level log message
+2021-02-21T11:53:35.534+0100 ERROR Error level log message
+2021-02-21T11:53:52.032+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3346 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T11:53:52.036+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T11:53:52.038+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T12:01:14.673+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 3379 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T12:01:14.686+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T12:01:14.687+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T12:01:20.561+0100 INFO Started ReservierungApplication in 6.439 seconds (JVM running for 7.814)
+2021-02-21T12:01:20.565+0100 INFO Info level log message
+2021-02-21T12:01:20.566+0100 DEBUG Debug level log message
+2021-02-21T12:01:20.566+0100 ERROR Error level log message
+2021-02-21T12:15:46.928+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 3435 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T12:15:46.939+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T12:15:46.940+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T12:17:19.759+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 3460 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T12:17:19.771+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T12:17:19.773+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T12:17:25.708+0100 INFO Started ReservierungApplication in 6.48 seconds (JVM running for 7.831)
+2021-02-21T12:17:25.714+0100 INFO Info level log message
+2021-02-21T12:17:25.715+0100 DEBUG Debug level log message
+2021-02-21T12:17:25.715+0100 ERROR Error level log message
+2021-02-21T12:48:32.165+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 3588 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T12:48:32.168+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T12:48:32.171+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T15:29:14.893+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 4112 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T15:29:14.903+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T15:29:14.905+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-21T15:29:20.401+0100 INFO Started ReservierungApplication in 6.011 seconds (JVM running for 7.303)
+2021-02-21T15:29:20.407+0100 INFO Start Rent A Car Application 
+2021-02-21T15:29:50.344+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 4124 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-21T15:29:50.362+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-21T15:29:50.364+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T17:25:23.663+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 4705 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T17:25:23.667+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T17:25:23.670+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T17:31:13.621+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 4730 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T17:31:13.625+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T17:31:13.627+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T17:31:56.035+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 4733 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T17:31:56.038+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T17:31:56.041+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T17:33:06.633+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 4744 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T17:33:06.638+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T17:33:06.642+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T18:22:07.301+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 4822 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T18:22:07.305+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T18:22:07.307+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T18:22:13.394+0100 INFO Started ReservierungApplicationTests in 6.422 seconds (JVM running for 8.422)
+2021-02-23T18:50:15.476+0100 INFO Starting ReservierungApplicationTests using Java 15.0.1 on Josiass-MBP with PID 5134 (started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T18:50:15.481+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T18:50:15.484+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T18:50:21.481+0100 INFO Started ReservierungApplicationTests in 6.309 seconds (JVM running for 8.455)
+2021-02-23T22:19:02.567+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 669 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T22:19:02.580+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T22:19:02.582+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T22:19:10.633+0100 INFO Started ReservierungApplication in 8.591 seconds (JVM running for 9.899)
+2021-02-23T22:19:10.646+0100 INFO Start Rent A Car Application 
+2021-02-23T22:58:41.785+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 812 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T22:58:41.796+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T22:58:41.798+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T22:58:48.887+0100 INFO Started ReservierungApplication in 7.62 seconds (JVM running for 8.954)
+2021-02-23T22:58:48.900+0100 INFO Start Rent A Car Application 
+2021-02-23T23:08:21.630+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 871 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:08:21.640+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:08:21.641+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:08:28.368+0100 INFO Started ReservierungApplication in 7.245 seconds (JVM running for 8.569)
+2021-02-23T23:08:28.379+0100 INFO Start Rent A Car Application 
+2021-02-23T23:11:02.450+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:14:50.036+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:21:32.388+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 929 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:21:32.401+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:21:32.402+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:21:39.157+0100 INFO Started ReservierungApplication in 7.288 seconds (JVM running for 8.611)
+2021-02-23T23:21:39.170+0100 INFO Start Rent A Car Application 
+2021-02-23T23:22:33.460+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:24:20.555+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 949 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:24:20.566+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:24:20.567+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:24:27.460+0100 INFO Started ReservierungApplication in 7.435 seconds (JVM running for 8.819)
+2021-02-23T23:24:27.472+0100 INFO Start Rent A Car Application 
+2021-02-23T23:24:42.467+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:27:08.041+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:27:11.324+0100 WARN Health check failed
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:660) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:648) ~[?:?]
+	at de.rentacar.projekt.reservierung.SocketHealthIndicator.doHealthCheck(SocketHealthIndicator.java:19) ~[classes/:?]
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:85) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:44) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:99) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateHealth(HealthEndpointSupport.java:110) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:96) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:74) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:61) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:71) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282) [spring-core-5.3.3.jar:5.3.3]
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:77) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:290) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:373) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.3.jar:5.3.3]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.3.jar:5.3.3]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93) [spring-boot-actuator-2.4.2.jar:2.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.3.jar:5.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.3.jar:5.3.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-02-23T23:30:32.485+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 977 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:30:32.496+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:30:32.498+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:30:39.286+0100 INFO Started ReservierungApplication in 7.307 seconds (JVM running for 8.688)
+2021-02-23T23:30:39.299+0100 INFO Start Rent A Car Application 
+2021-02-23T23:36:39.876+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1007 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:36:39.887+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:36:39.889+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:36:46.819+0100 INFO Started ReservierungApplication in 7.467 seconds (JVM running for 8.799)
+2021-02-23T23:36:46.835+0100 INFO Start Rent A Car Application 
+2021-02-23T23:42:29.628+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1048 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:42:29.639+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:42:29.640+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:42:36.725+0100 INFO Started ReservierungApplication in 7.638 seconds (JVM running for 8.977)
+2021-02-23T23:42:36.739+0100 INFO Start Rent A Car Application 
+2021-02-23T23:45:07.145+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1063 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-23T23:45:07.156+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-23T23:45:07.157+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-23T23:45:14.440+0100 INFO Started ReservierungApplication in 7.818 seconds (JVM running for 9.192)
+2021-02-23T23:45:14.454+0100 INFO Start Rent A Car Application 
+2021-02-24T12:07:01.514+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1316 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T12:07:01.527+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T12:07:01.528+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T12:07:08.211+0100 INFO Started ReservierungApplication in 7.222 seconds (JVM running for 8.599)
+2021-02-24T12:07:08.224+0100 INFO Start Rent A Car Application 
+2021-02-24T12:09:54.815+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1339 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T12:09:54.826+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T12:09:54.828+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T12:10:01.523+0100 INFO Started ReservierungApplication in 7.218 seconds (JVM running for 8.54)
+2021-02-24T12:10:01.535+0100 INFO Start Rent A Car Application 
+2021-02-24T12:11:20.044+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1351 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T12:11:20.056+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T12:11:20.057+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T12:11:26.686+0100 INFO Started ReservierungApplication in 7.161 seconds (JVM running for 8.482)
+2021-02-24T12:11:26.700+0100 INFO Start Rent A Car Application 
+2021-02-24T12:43:12.132+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1408 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T12:43:12.143+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T12:43:12.144+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T12:43:18.784+0100 INFO Started ReservierungApplication in 7.167 seconds (JVM running for 8.498)
+2021-02-24T12:43:18.794+0100 INFO Start Rent A Car Application 
+2021-02-24T12:48:28.087+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1441 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T12:48:28.098+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T12:48:28.100+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T12:48:35.075+0100 INFO Started ReservierungApplication in 7.51 seconds (JVM running for 8.797)
+2021-02-24T12:48:35.084+0100 INFO Start Rent A Car Application 
+2021-02-24T14:29:54.940+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1532 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:29:54.954+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:29:54.956+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:30:02.077+0100 INFO Started ReservierungApplication in 7.654 seconds (JVM running for 8.979)
+2021-02-24T14:30:02.090+0100 INFO Start Rent A Car Application 
+2021-02-24T14:41:47.046+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1561 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:41:47.059+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:41:47.061+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:42:08.274+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1573 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:42:08.285+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:42:08.287+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:42:14.963+0100 INFO Started ReservierungApplication in 7.163 seconds (JVM running for 8.456)
+2021-02-24T14:42:14.977+0100 INFO Start Rent A Car Application 
+2021-02-24T14:43:25.835+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1585 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:43:25.845+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:43:25.847+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:43:32.560+0100 INFO Started ReservierungApplication in 7.216 seconds (JVM running for 8.497)
+2021-02-24T14:43:32.570+0100 INFO Start Rent A Car Application 
+2021-02-24T14:47:26.589+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1600 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:47:26.600+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:47:26.602+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:47:33.722+0100 INFO Started ReservierungApplication in 7.656 seconds (JVM running for 8.958)
+2021-02-24T14:47:33.740+0100 INFO Start Rent A Car Application 
+2021-02-24T14:50:22.097+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1623 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T14:50:22.107+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T14:50:22.108+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T14:50:29.594+0100 INFO Started ReservierungApplication in 8.017 seconds (JVM running for 9.317)
+2021-02-24T14:50:29.610+0100 INFO Start Rent A Car Application 
+2021-02-24T15:16:57.615+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1717 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T15:16:57.625+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T15:16:57.626+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T15:17:05.122+0100 INFO Started ReservierungApplication in 8.013 seconds (JVM running for 9.313)
+2021-02-24T15:17:05.139+0100 INFO Start Rent A Car Application 
+2021-02-24T15:25:01.282+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1782 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T15:25:01.293+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T15:25:01.294+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T15:25:08.994+0100 INFO Started ReservierungApplication in 8.215 seconds (JVM running for 9.49)
+2021-02-24T15:25:09.014+0100 INFO Start Rent A Car Application 
+2021-02-24T15:32:31.744+0100 INFO Starting ReservierungApplication using Java 15.0.1 on Josiass-MBP with PID 1850 (/Users/josiasyoumbi/Downloads/reservierung/target/classes started by josiasyoumbi in /Users/josiasyoumbi/Downloads/reservierung)
+2021-02-24T15:32:31.756+0100 DEBUG Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-24T15:32:31.758+0100 INFO No active profile set, falling back to default profiles: default
+2021-02-24T15:32:39.667+0100 INFO Started ReservierungApplication in 8.451 seconds (JVM running for 9.755)
+2021-02-24T15:32:39.683+0100 INFO Start Rent A Car Application 
