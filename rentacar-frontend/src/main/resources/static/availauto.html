@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	
+    <link href="/css/style.css" rel="stylesheet">
+    
+    <script src="/webjars/jquery/jquery.min.js"></script>
+    <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
+
+    
+    
+    <script type="text/javascript" src="webjars/angularjs/1.6.6/angular.min.js"></script>
+    <script type="text/javascript" src="webjars/angularjs/1.6.6/angular-resource.min.js"></script>
+    <script src="/js/avaiAuto.js" type="text/javascript"></script>
+    
+	
+</head>
+
+<body>
+    <nav th:replace="layout :: nav"></nav>
+    <div class="container">
+        <header class="jumbotron hero-spacer">
+            <h3>Car A Rental</h3>
+            <p>Projekt Architektur</p>
+        </header>
+        <div class="container">
+            <h3>Check available cars:</h3>
+            <form>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <input type="date" class="form-control" name="start_date" placeholder="Pick start date"><br><br>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="date" class="form-control" name="end_date" placeholder="Pick end date"><br><br>
+                    </div>
+                    <div class="col-sm-4">
+                        <button class="btn btn-success" type="submit">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <hr>
+        <div class="row text-center" ng-app="myApp" ng-controller="AutoController">
+          		
+            <div class="col-md-3 col-sm-6 hero-feature" ng-repeat="x in menus">
+                <div class="thumbnail">
+                    <img  src="images/{{ x.bild }}" />
+                    <div class="caption">
+                        <h3 {{ x.mark }}></h3>
+                        <p> {{ x.beschreibung }}</p>
+                        <p> {{ x.preis }} EUR / day</p>
+                        <p>
+                            <a href="#" class="btn btn-primary" th:href="@{/bookPartOne(car_id=${p.id})}">Book Now!</a>
+                            <a href="#" class="btn btn-default" th:href="@{/carDetail(car_id=${p.id})}">More Info</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <footer th:replace="layout :: footer"></footer>
+    </div>
+</body>
+</html>>

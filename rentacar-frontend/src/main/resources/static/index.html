@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	
+    <link href="/css/style.css" rel="stylesheet">
+    
+    <script src="/webjars/jquery/jquery.min.js"></script>
+    <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
+
+    
+    
+    <script type="text/javascript" src="webjars/angularjs/1.6.6/angular.min.js"></script>
+    <script type="text/javascript" src="webjars/angularjs/1.6.6/angular-resource.min.js"></script>
+    
+     <script src="/js/app.js" type="text/javascript"></script>
+	
+</head>
+<body>
+
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="addmenu.html">Neue Menu <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="add.html">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="add.html">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+	
+	
+
+
+	<div ng-app="demo" ng-controller="Hello"> 
+	
+		<form class = "form-horizontal">
+	  	
+	  	    <div class="form-group">
+			  <label for="titel" class="col-sm-2 control-label">Auto</label>
+			  <div class="col-sm-8">
+			    <input class="form-control" ng-model = "idauto" placeholder = "Auto" type="text" value="" id="idauto">
+		      </div>
+		    </div>
+ 
+ 	  	    <div class="form-group">
+			  <label for="comment" class="col-sm-2 control-label">Kunde</label>
+			  <div class="col-sm-8">
+			    <input class="form-control" ng-model = "idkunde" placeholder = "Kunde" type="text" value="" id="idkunde">
+		      </div>
+            </div>
+            
+ 	  	    <div class="form-group">
+			  <label for="name" class="col-sm-2 control-label">AbgabeDatum</label>
+			  <div class="col-sm-8">
+			    <input class="form-control" ng-model = "abholdatum" type="text" placeholder = "Ihr abholdatum" value="" id="abholdatum">
+		      </div>
+            </div>		
+            
+             <div class="form-group">
+			  <label for="name" class="col-sm-2 control-label">Ruckgabedatum</label>
+			  <div class="col-sm-8">
+			    <input class="form-control" ng-model = "ruckgabedatum" type="text" placeholder = "Ihr Rueckgabe" value="" id="ruckgabedatum">
+		      </div>
+            </div>	    
+ <!-- 	  		<div class="form-group">
+		    	<label class="col-sm-2 control-label" for="commenter">Commenter</label>
+		      <div class="col-sm-8">
+		    	<textarea class="form-control" id="commenter" ></textarea>
+		      </div>
+		    </div> -->
+		    
+		    <div class="rows">
+		    	<div class ="col-sm-8 col-sm-offset-2">
+		    	    <button ng-click = "charger()" class="btn btn-success">Speichern</button>
+
+		    		<a href="index.html" class="btn btn-default">Abbrechen</a>
+		    	
+		    	</div>
+		    
+		    </div>
+	  	</form>
+       
+	  	<div class = "spacer"></div>
+	  	
+		<div>&#160;</div>
+  		<table class="table table-striped">
+  			<thead>
+  				<tr>
+  					<th>TITEL</th><th>Beschreibung</th><th>Autor</th><th>Edit</th><th>Delete</th>
+  					
+  				</tr>
+  		
+  			</thead>
+  			<tbody id ="content"></tbody>
+  				<tr ng-repeat="x in menus">
+  					<td>{{ x.idauto }}</td>
+  					<td>{{ x.abholdatum }}</td>
+  					<td>{{ x.ruckgabedatum }}</td>
+  					<td><button type="button" ng-click="ctrl.editUser(u.id)" class="btn btn-success custom-width">Edit</button></td>
+                    <td><button type="button" ng-click="ctrl.removeUser(u.id)" class="btn btn-danger custom-width">Remove</button></td>
+  				</tr>
+  			
+  		</table>
+  		
+	</div>
+
+
+</body>
+</html>
